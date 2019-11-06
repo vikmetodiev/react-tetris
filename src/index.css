@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+@font-face {
+  font-family:'Pixel';
+  src: url('font/Pixel-LCD-7.woff') format("woff")
+}
+
+.text-center{
+  font-family: Pixel, Arial, Helvetica, sans-serif;
+}
